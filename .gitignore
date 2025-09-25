@@ -1,0 +1,40 @@
+# ✅ Abaikan virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# ✅ Abaikan file bawaan Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ✅ Abaikan file model dan scaler
+*.h5
+*.pkl
+*.joblib
+*.sav
+
+# ✅ Abaikan file data/output
+*.csv
+*.xlsx
+*.log
+
+# ✅ Abaikan file dari Streamlit, Jupyter, VSCode
+.ipynb_checkpoints/
+*.db
+*.DS_Store
+.vscode/
+*.swp
+.history/
+
+# ✅ Abaikan file gambar/output
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# ✅ Abaikan file sistem
+Thumbs.db
+ehthumbs.db
