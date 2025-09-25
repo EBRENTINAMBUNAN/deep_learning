@@ -90,7 +90,7 @@ streamlit run eda_dashboard_pm25.py
 ## 📬 Kontak
 - Pengembang: KELOMPOK 2 - KECERDASAN BUATAN
 - Email: bendev403@gmail.com
-- Dataset: [UCI Beijing PM2.5 Dataset](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data)
+- Dataset: [UCI Beijing PM2.5 Dataset](https://archive.ics.uci.edu/dataset/381/beijing+pm2+5+data)
 
 ---
 
