@@ -30,7 +30,6 @@ __pycache__/
 .history/
 
 # ✅ Abaikan file gambar/output
-*.png
 *.jpg
 *.jpeg
 *.svg
