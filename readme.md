@@ -13,7 +13,7 @@ Nah, deep learning memungkinkan **komputer juga bisa menebak seperti itu** — b
 ---
 
 ## Cara kerja
-![Alur Deep Learning](assets/img/uml.png)
+![Alur Deep Learning](./src/assets/img/uml.png)
 
 ---
 
