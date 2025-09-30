@@ -18,6 +18,13 @@ Nah, deep learning memungkinkan **komputer juga bisa menebak seperti itu** — b
 
 ---
 
+---
+
+## Cara kerja
+![Alur Deep Learning](./src/assets/img/hasil.png)
+
+---
+
 ## Cara Instalasi dan Menjalankan Aplikasi
 
 ### 1. Clone Repository
