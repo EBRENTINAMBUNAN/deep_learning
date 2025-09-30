@@ -20,7 +20,7 @@ Nah, deep learning memungkinkan **komputer juga bisa menebak seperti itu** — b
 
 ---
 
-## Cara kerja
+## Hasil model
 ![Alur Deep Learning](./src/assets/img/hasil.png)
 
 ---
