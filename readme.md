@@ -1,7 +1,7 @@
 # Prediksi Kualitas Udara dengan Deep Learning
 
 ## Apa Itu Deep Learning?
-![Deep Learning](./src/assets/img/dl.jpeg)
+<img src="./src/assets/img/dl.jpeg" alt="Deep Learning" width="350">
 
 ### Pengertian singkat:
 > Deep Learning adalah teknologi komputer yang meniru cara kerja otak manusia untuk belajar dari data dan membuat prediksi.
