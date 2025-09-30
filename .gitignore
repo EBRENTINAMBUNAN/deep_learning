@@ -31,7 +31,6 @@ __pycache__/
 
 # ✅ Abaikan file gambar/output
 *.jpg
-*.jpeg
 *.svg
 
 # ✅ Abaikan file sistem
